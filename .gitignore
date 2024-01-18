@@ -1,0 +1,65 @@
+# Node.js
+node_modules/
+
+# Output directory
+dist/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp/
+.yarn-integrity
+/.pnp
+__pnp__/
+
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.rsuser
+*.rsuserbak
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# TypeScript
+*.tsbuildinfo
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# Yarn Integrity file
+.yarn-integrity
